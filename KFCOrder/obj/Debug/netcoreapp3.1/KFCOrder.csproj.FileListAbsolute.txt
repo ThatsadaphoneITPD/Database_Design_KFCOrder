@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\obj\Debug\netcoreapp3.1\KFCOrder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\obj\Debug\netcoreapp3.1\KFCOrder.AssemblyInfo.cs
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\obj\Debug\netcoreapp3.1\KFCOrder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\bin\Debug\netcoreapp3.1\KFCOrder.exe
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\bin\Debug\netcoreapp3.1\KFCOrder.deps.json
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\bin\Debug\netcoreapp3.1\KFCOrder.runtimeconfig.json
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\bin\Debug\netcoreapp3.1\KFCOrder.runtimeconfig.dev.json
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\bin\Debug\netcoreapp3.1\KFCOrder.dll
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\bin\Debug\netcoreapp3.1\KFCOrder.pdb
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\obj\Debug\netcoreapp3.1\KFCOrder.dll
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\obj\Debug\netcoreapp3.1\KFCOrder.pdb
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\obj\Debug\netcoreapp3.1\KFCOrder.genruntimeconfig.cache
+C:\Users\User\Desktop\Advanced_Programming\CODE-ASM1-2\OrderKFC\OrderKFC\KFCOrder\obj\Debug\netcoreapp3.1\KFCOrder.csprojAssemblyReference.cache
